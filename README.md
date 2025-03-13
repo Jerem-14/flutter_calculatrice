@@ -4,7 +4,7 @@
 
 Cette application implémente une calculatrice complète en Flutter, offrant une interface intuitive et des fonctionnalités avancées. Elle permet de réaliser des calculs arithmétiques, de gérer les priorités d'opérations, et d'utiliser des parenthèses pour des expressions complexes.
 
-![Capture d'écran de l'application](![calculatrice.png](assets/images/calculatrice.png))
+![Capture d'écran de l'application](assets/images/calculatrice.png))
 
 ## Fonctionnalités
 
